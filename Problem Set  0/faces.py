@@ -5,6 +5,6 @@ def convert(greeting):
 
 # Print convert function with input
 def main():
-    print(convert(input("")), end="")
+    print(convert(input("")))
 
 main()
